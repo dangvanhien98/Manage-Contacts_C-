@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\DATA\nhom.txt
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\DATA\lienlac.txt
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Addnhom.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Addlienlac.resources
